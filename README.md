@@ -1,4 +1,9 @@
-## Hi there 👋
+## Ethan Ooi
+
+I'm a second-year student at the University of Virginia, majoring in Data Science. Concentrations in Analytics and Systems.
+
+### Projects
+
 
 <!--
 **vys5hb/vys5hb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
