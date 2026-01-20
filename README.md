@@ -4,6 +4,10 @@ I'm a second-year student at the University of Virginia, majoring in Data Scienc
 
 ### Projects
 
+- [Spotify Recommendation System](https://github.com/vys5hb/Spotify-Recommendation-System)
+- [Fantasy Football QB Predictor](https://github.com/vys5hb/Fantasy-Football-QB-Predictor)
+- [UFC Scorigami](https://github.com/vys5hb/UFC-Scorigami)
+- [NBA Upset Analysis](https://github.com/vys5hb/NBA-Upset-Analysis)
 
 <!--
 **vys5hb/vys5hb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
